@@ -1,0 +1,1 @@
+# fix-wordpress-permissions-script
