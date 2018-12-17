@@ -1,4 +1,4 @@
-# fix-wordpress-permissions-script
+# Fix Wordpress Permissions Script
 
 For Debian:
 
